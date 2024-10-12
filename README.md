@@ -45,7 +45,7 @@ to see the full list of projects.
 Feel free to reach out to us on:
 
 - **[Discord](https://discord.gg/PaVYAuymgm)**
-- **[Website](https://nestor.vercel.app/)**
+- **[Website](https://nestor-vrc.vercel.app/)**
 
 Let's collaborate and build something amazing together! ✨
 
